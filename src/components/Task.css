@@ -1,0 +1,21 @@
+img{
+width:30px;
+padding-left: 10px;}
+
+.task
+{
+border:1px solid;
+width:400px;
+border-radius: 8px;
+display: flex;
+flex-direction: row;
+background-color: lightyellow;
+justify-content: space-around;
+box-shadow: 6px 6px 6px black;
+height: 50px;
+margin: 10px;
+}
+.icon
+{display: flex;
+flex-direction: row;
+}

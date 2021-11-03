@@ -1,0 +1,37 @@
+
+.form, div{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: inherit;
+    padding: 5px;
+    
+}
+.form
+{
+width:600px;
+background-color:lightsteelblue;
+border-radius: 8px;
+box-shadow: 6px 6px 6px black;
+border:1px solid;
+}
+
+input ,button
+{
+    height: 30px;
+    width: 500px;
+    font-family: inherit;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+
+button{
+background-color:blue;
+color: blanchedalmond;
+height:35px ;
+width:510px}
